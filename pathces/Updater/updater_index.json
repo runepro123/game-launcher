@@ -1,0 +1,1252 @@
+{
+  "Entries" : [
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher.exe",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 666624,
+      "Hash" : "RExDKg3mth/mL4sAXUjPC9H8Vuo"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "UnityCrashHandler64.exe",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 1112768,
+      "Hash" : "UIjjL4m2LRq5v4Cy+MQnzmriKOg"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "UnityPlayer.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 30979776,
+      "Hash" : "SJwq55bAhCQfnx4StZSHo8sdhsY"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/app.info",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 33,
+      "Hash" : "VNhmcCTfIsoXL/g+FxqffQWHTCo"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/boot.config",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 144,
+      "Hash" : "Xtq81SLDz28G9nsPvOzML7MmbWE"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/globalgamemanagers",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 585876,
+      "Hash" : "iQVbNP6nQOoLsVvjsVxsesiUXE4"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/globalgamemanagers.assets",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 260000,
+      "Hash" : "tzd06AGDXi196SMykkS2WpWPw+0"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/globalgamemanagers.assets.resS",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 2796240,
+      "Hash" : "jI1l5N9PicD6d7W6ao7HNxE+9ZI"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/level0",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 20504,
+      "Hash" : "uqWuhBGo95FjjvI4LUjFphXPb/o"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/level0.resS",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 131232,
+      "Hash" : "JegE4nD0KoYMs1EG6R1IOO6vpOs"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/resources.assets",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 14200024,
+      "Hash" : "PWhbUVPfJ3VaiEs7EQgg/ipY6g0"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/resources.assets.resS",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 60190208,
+      "Hash" : "EZPHUnB25DvMXp/QfDIf4ktWoJY"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/resources.resource",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 4277344,
+      "Hash" : "3J/ntUwP72wWNPDCRfy+RSHTNOs"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/RuntimeInitializeOnLoads.json",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 1573,
+      "Hash" : "wRUCe8/E9meED7D3fEhez4MWRQY"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/ScriptingAssemblies.json",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 3318,
+      "Hash" : "wDE6CT+Q40IUk/0JlNk+ofW/hRA"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/sharedassets0.assets",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 38316,
+      "Hash" : "6BlARfmqCnMpkBXX8bHUBiy5slg"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/sharedassets0.assets.resS",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 13594192,
+      "Hash" : "mVtY+4NXlCC2ReX1ZzfpOSPsnVs"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/ACTk.Examples.Genuine.Runtime.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 7680,
+      "Hash" : "bQ8OgpL4Jrgvgj7iG91lMkJHHPU"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/ACTk.Examples.Runtime.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 52224,
+      "Hash" : "yUXGpRnf31qnEIAGaL4HvxPpmO0"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/ACTk.Runtime.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 195072,
+      "Hash" : "V9XgFAKyt9lgl2qAuseQufBQHgk"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/Assembly-CSharp.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 994816,
+      "Hash" : "oyFWomU7T/JOwEHkW2emCf0uHgM"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/ICSharpCode.SharpZipLib.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 245248,
+      "Hash" : "skXgHTXxjX71Yp/tPxF5rJKIzhg"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/MFPS.Internal.Enums.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 8192,
+      "Hash" : "mpxIiJIIsdXiBtkfbEDXl//IyWI"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/MHLab.Patch.Core.Admin.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 25600,
+      "Hash" : "yR9tuBkLfDutPXfo89yLLcck83A"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/MHLab.Patch.Core.Client.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 61952,
+      "Hash" : "ksUY9kG7DAFkn15GBLUZZERQ+6E"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/MHLab.Patch.Core.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 71168,
+      "Hash" : "1CnhaFUQJv+/3FqQH3t2bfYDjFo"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/Mono.Security.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 241152,
+      "Hash" : "n+iEpWek4voTS2RiO8Pi3ULls5s"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/mscorlib.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 4631552,
+      "Hash" : "bDQZ1Xnjev9bCJwhLBl9eOmlAfg"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/netstandard.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 90112,
+      "Hash" : "wttuc3aXfFx/F9gWQGynD5XY4e8"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/Photon3Unity3D.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 231936,
+      "Hash" : "EWsAOP3qtSsNhcx4QRaXhXMlnNQ"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/PhotonChat.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 35840,
+      "Hash" : "O/FzIxL6M5iNum+B922XaL7nHA4"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/PhotonRealtime.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 104448,
+      "Hash" : "2DUHL5jQ/BtLNuYTTcA6wrNAnpU"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/PhotonUnityNetworking.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 113664,
+      "Hash" : "B9ejhCIqzho8U41mYUqmkk/FV0M"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/PhotonUnityNetworking.Utilities.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 62464,
+      "Hash" : "0ptRORZ5+V7nzSW3CWwRa7KBhPU"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/System.Buffers.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 4608,
+      "Hash" : "Ho7wmW876QIcFDELP405rV2RFiI"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/System.ComponentModel.Composition.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 257024,
+      "Hash" : "9RzjTdFml/a1OGGXx/5teXvtaQY"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/System.Configuration.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 124928,
+      "Hash" : "FfY2bs7V+qGrXVXa08gNA1o5da0"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/System.Core.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 1113088,
+      "Hash" : "8Fcheaw7whvWS/jpLBNBJNLzLuU"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/System.Data.DataSetExtensions.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 29696,
+      "Hash" : "rzKnZ13nyg1S393vFjCrbPPtcaw"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/System.Data.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 2125312,
+      "Hash" : "Zyuo9/pCv+hSPo5fA8aca4bAhnY"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/System.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 2637824,
+      "Hash" : "pXIDcoKF/3rOjO6Ngtmx0OtuTkE"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/System.Drawing.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 489984,
+      "Hash" : "IUV8D85VCTE/IQl6+XT6rue23Mk"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/System.EnterpriseServices.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 44544,
+      "Hash" : "KrJSxR27O9cnjLayUmU6TcwLQWA"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/System.IO.Compression.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 114688,
+      "Hash" : "BnG4rkgWbL8k0GpqPPwS+j4N0qM"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/System.IO.Compression.FileSystem.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 18432,
+      "Hash" : "N6v+wWHvM8G9I35mqJPNEi8v3AA"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/System.Memory.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 4608,
+      "Hash" : "uV82m936EGTILKq4JXk3Pl8tk8g"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/System.Net.Http.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 122880,
+      "Hash" : "BwLfRRDrrpWJRFzTbU82NkZTYGU"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/System.Numerics.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 119296,
+      "Hash" : "M8zpioYWU5R8zihGAeSJZ2zozxA"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/System.Runtime.CompilerServices.Unsafe.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 16768,
+      "Hash" : "aorVWoRjZU1zZSBQ9Md/ZSsmWeA"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/System.Runtime.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 12288,
+      "Hash" : "3nK2EB7wMV0PLJk0v2PsdRLfzrU"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/System.Runtime.Serialization.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 934400,
+      "Hash" : "WrA2/RJ2ksOjvumNjo0+lDkJYZo"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/System.Security.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 320000,
+      "Hash" : "V8UoS5ICGHoY+DTZt0wo1QZ6wiM"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/System.ServiceModel.Internals.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 215040,
+      "Hash" : "vzgToThop0N1uftr0DShIOPZM6o"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/System.Threading.Tasks.Extensions.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 5120,
+      "Hash" : "Zx38iIHnArTbJBCTxxF3Rmm+7x0"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/System.Transactions.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 35328,
+      "Hash" : "ZrzAlo9B7L/wrdSo2Vk1GkaqSAc"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/System.Xml.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 3160064,
+      "Hash" : "y/QHrHikcQS1rI2TCN0D9A5Bar8"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/System.Xml.Linq.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 136704,
+      "Hash" : "4Attuwzdfmd7kgGdRa6AQ+HaUxg"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/Unity.Postprocessing.Runtime.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 162816,
+      "Hash" : "tR7nNQT9vjiODgxEIEnNOJkCak8"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/Unity.TextMeshPro.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 380416,
+      "Hash" : "6jj5P6m4KNNb6SAo9+HECcMlqDM"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/Unity.Timeline.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 127488,
+      "Hash" : "8d3xyJZ7vYD3LKTVQkco3jZKRRE"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 86016,
+      "Hash" : "cAegsbB3SlenkMF+DyfqCn9IQ/k"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/Unity.VisualScripting.Core.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 625664,
+      "Hash" : "QVroPZHzBLn9FDIvUKDB2sUCDbI"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/Unity.VisualScripting.Flow.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 401408,
+      "Hash" : "JAQjBaaMGqRZRc2Dr5fKK4VJCeg"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/Unity.VisualScripting.State.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 32256,
+      "Hash" : "/tsWY+xRA+MHDCnGJSfhMUIAyZY"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.AccessibilityModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 22208,
+      "Hash" : "1Kvu8qu/pQCXeq2z8JwUOS1rF4c"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.AIModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 57024,
+      "Hash" : "fSspjAUgUZFqeAmHlPbfsJNZ8IQ"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.AndroidJNIModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 93376,
+      "Hash" : "KUG/z8faUJt1PYBxABwJFOb5YlM"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.AnimationModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 162496,
+      "Hash" : "x/GmXvm7yo39pLajtPMRHdaBlRs"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.ARModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 19648,
+      "Hash" : "/a3d7cSarcvCTWN/ofhIzUNFXWg"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.AssetBundleModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 31424,
+      "Hash" : "F8R+5j0WukXNy5K+7V6H5qlrR8c"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.AudioModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 69312,
+      "Hash" : "kEL6GIXF8hKmgT0zaql1hF+4YOo"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.ClothModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 24768,
+      "Hash" : "L3dzi4GgvmSkQnYFwnjzmKtTsz8"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.ClusterInputModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 20160,
+      "Hash" : "p7Kf01UW3mBwNZVXw0AwRhefgZk"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.ClusterRendererModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 20672,
+      "Hash" : "r3YCIjk/Q/bcNZ5AlY3aAq5PNn8"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.ContentLoadModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 25792,
+      "Hash" : "ZT2IjnJnp+VSgpPlwixQslaCtuY"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.CoreModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 1386176,
+      "Hash" : "j9z9LvXNyNnyCIzDv9X6yH6FikI"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.CrashReportingModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 19648,
+      "Hash" : "EP6giJs4VKi22M7gL6aiXTZiiTk"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.DirectorModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 23232,
+      "Hash" : "QUzu5maXjEtqwK3bA/X8Yynibtw"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 125120,
+      "Hash" : "hGbYbTnHYmPwN4Z2NHXyccbYxd8"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.DSPGraphModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 27840,
+      "Hash" : "bq1b0vp8p6deu4xHS3b2wglPElo"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.GameCenterModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 38592,
+      "Hash" : "c+NglyznWi5lLdFKh69pTLN16YU"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.GIModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 18624,
+      "Hash" : "HTGG6VxiVuivPUbh3NVdu8XF9k4"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.GridModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 23744,
+      "Hash" : "N8ik0/Oj5HRydcgQL/Mbv7AIMLU"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.HotReloadModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 18624,
+      "Hash" : "0J1pbNAuXqTIuNatxLPTeBnhG04"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.ImageConversionModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 22720,
+      "Hash" : "79s2zqg2oTwW5WjkYmGbPGOF+6c"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.IMGUIModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 188096,
+      "Hash" : "fqc9wuaS5CYxU+zut7kYRA6UVcU"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.InputLegacyModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 37568,
+      "Hash" : "pIuOqjmAoI47SSbSuec2fy0ip5E"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.InputModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 22208,
+      "Hash" : "xRrx4FzzQVVl6CEKLRuP2/lf7yw"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.JSONSerializeModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 20672,
+      "Hash" : "9/5wlLHpm4X101y6c+dPHmnp198"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.LocalizationModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 19648,
+      "Hash" : "vl70yBbLIeQUx57xD9DVt8fTylg"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.NVIDIAModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 32448,
+      "Hash" : "e8HnPi1AXmon2PSY6LAcYpY2kgo"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.ParticleSystemModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 159424,
+      "Hash" : "EqKXgsRE1FO9YpH3qakMaDOE8Wk"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 19136,
+      "Hash" : "rk3QIYB/7HsdoXC0TyWDLe/5XIg"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.Physics2DModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 139968,
+      "Hash" : "+3Ikd3ADBsrSIOcCuXlBg5vo634"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.PhysicsModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 136896,
+      "Hash" : "iKwJqH6nwEoWkjmlk/pGiwluU98"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.ProfilerModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 18624,
+      "Hash" : "j4v5V0vxEE9MSb75lJwqwOiBVsY"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.PropertiesModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 153792,
+      "Hash" : "rnnyTWW+ch4YkG2VM3Dxjyq5fWQ"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 18624,
+      "Hash" : "+zTS5BxuODWEbennXhqN0+I/L5A"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 19648,
+      "Hash" : "W+4vMnaGe5topC4bl1JhLPtkW6U"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.SharedInternalsModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 31424,
+      "Hash" : "xRRYMIlbSiN/XlNhOPtYfznSfg0"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.SpriteMaskModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 20160,
+      "Hash" : "4TuRG2YnDCLCZ59iKMEmY8P+z6I"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.SpriteShapeModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 24768,
+      "Hash" : "SSFqlha73/HUqIBr9nzfQyoNvwg"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.StreamingModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 19136,
+      "Hash" : "Hp5yXp6Pm94EYCYGtno8Cq882Kc"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.SubstanceModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 23232,
+      "Hash" : "8HfmjVqJv+UdUhVITxhz5ButvOU"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.SubsystemsModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 33472,
+      "Hash" : "BjpnmjQC6EKvoDv4qeRu6AyG08s"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.TerrainModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 99520,
+      "Hash" : "rvlzBbqweo8rPjEDfhEpQtyxxxM"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 19648,
+      "Hash" : "yJM3yfoM7DhbjpuXEofy8XicqPU"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 70848,
+      "Hash" : "Un/2Jiwf08pjrV141kDbBENa62Y"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 247488,
+      "Hash" : "fUSUCOJzvrMuXuxMA+xXAPmALys"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.TextRenderingModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 37568,
+      "Hash" : "cC5D+hV2LpMYc1cIH3oNRBh2diU"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.TilemapModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 45248,
+      "Hash" : "sUD58zDBfgMOMM3VtBA6vT3HbnE"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.TLSModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 25280,
+      "Hash" : "2AUG2EJ6sR8ch+pVnpM5x4f+vvo"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.UI.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 264192,
+      "Hash" : "3pgg/vaiGvXRSJn30/uq7oAs770"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.UIElementsModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 1524928,
+      "Hash" : "PIJEaSbr12czfO9S/aIuOURiBEE"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.UIModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 35008,
+      "Hash" : "OxTVaSgVxHa32whdImq7hzb96yU"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.UmbraModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 18624,
+      "Hash" : "KqTIMJcvPdf4qA0Z/stZo8fAFV0"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 19648,
+      "Hash" : "8x+k6tQODj1tGOHNQlonN5ZmJFk"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 43200,
+      "Hash" : "NslgPoqQ1VXBmO11yaY8tiH+VVw"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.UnityConnectModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 20160,
+      "Hash" : "ORNw18bixwCzG0q2ki6bLAkiwGc"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.UnityCurlModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 20160,
+      "Hash" : "Id+S6cz1I+dxDB2+CGb/6AgpY3o"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.UnityTestProtocolModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 18624,
+      "Hash" : "3cg7hPpmuY3aHacBoM9AkYg/gJQ"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 21696,
+      "Hash" : "mjQAcDr/G54V2JJ1dOlrn32548A"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 21184,
+      "Hash" : "SUqj9zATzJ990mG5FAGX3k272lY"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 56512,
+      "Hash" : "wE/d6iIKOQQl/WJzvAvMfCRc9Zg"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 20160,
+      "Hash" : "H8ZPDgmq7i6tVv/xrnZT1ZEIGZQ"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 29888,
+      "Hash" : "I9vzaTKQxBnt3YoUwh5EMzfZAVM"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.VehiclesModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 22720,
+      "Hash" : "MCm+8KI734GKBi7pTqfTguIH0xk"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.VFXModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 57024,
+      "Hash" : "eHAIQBbkW+UMXeiZN+Zxlrp2Idw"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.VideoModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 39616,
+      "Hash" : "Rd+QDi+LyyAhzPaoDvv6/V9k3RA"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 34496,
+      "Hash" : "VcUwGB2Um4lAJyPpnwzvimrQIC0"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.VRModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 24768,
+      "Hash" : "EYLiFejeCwwkvF3AmNXrChkbiHg"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.WindModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 19648,
+      "Hash" : "pZMESUTbMv58d8kzPiDyCJH9l4M"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/UnityEngine.XRModule.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 69312,
+      "Hash" : "yn6rf3euPzfU4+gcsxzTuMIE3rQ"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Managed/websocket-sharp.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 250368,
+      "Hash" : "5y/sOTFNfrdfE8H/BFlRXZXdkQw"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Resources/unity default resources",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 1551312,
+      "Hash" : "hsju/QbXhsNB2PVjwbVomfCefZM"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "Infinity Patcher_Data/Resources/unity_builtin_extra",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:05Z",
+      "Size" : 379064,
+      "Hash" : "2vNOxbry976XTlYn2Ce074BQqOU"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 7895744,
+      "Hash" : "4HCVEj3kBKTToKb8bT/Wpf96skU"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 609472,
+      "Hash" : "UJ0ckw861uZ65XLC9MNiBflizvc"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "MonoBleedingEdge/etc/mono/browscap.ini",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 311984,
+      "Hash" : "LVRU4WHeiltlkQ8nvXDZ0K2PpHY"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "MonoBleedingEdge/etc/mono/config",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 3815,
+      "Hash" : "Unlf/ai4hwF5OswF6HiXvbqZpjM"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 60575,
+      "Hash" : "s+S1CKqzzyAcBoknE7Q92wxDt64"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "MonoBleedingEdge/etc/mono/2.0/machine.config",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 29066,
+      "Hash" : "P7zseGrEtugbbS8qsojPZ91nYPQ"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "MonoBleedingEdge/etc/mono/2.0/settings.map",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 2622,
+      "Hash" : "3Svi28zTRzZxkwGu6SQp1CWOpaA"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "MonoBleedingEdge/etc/mono/2.0/web.config",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 11635,
+      "Hash" : "V05LJAFYUtRayA386K88b9Sk8Jo"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 60575,
+      "Hash" : "s+S1CKqzzyAcBoknE7Q92wxDt64"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "MonoBleedingEdge/etc/mono/4.0/machine.config",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 33598,
+      "Hash" : "epvKYeavmtcg2h19JBkmN9kDeIY"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "MonoBleedingEdge/etc/mono/4.0/settings.map",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 2622,
+      "Hash" : "jhfirsQjqOb7Q+jL5iFQQCF7uKM"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "MonoBleedingEdge/etc/mono/4.0/web.config",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 18802,
+      "Hash" : "dxZI+tx+2aQitLwm442FTQZnQtc"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 60575,
+      "Hash" : "s+S1CKqzzyAcBoknE7Q92wxDt64"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "MonoBleedingEdge/etc/mono/4.5/machine.config",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 34056,
+      "Hash" : "OS5a5rPa1ZQYvaiQlS7ieospDpA"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "MonoBleedingEdge/etc/mono/4.5/settings.map",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 2622,
+      "Hash" : "jhfirsQjqOb7Q+jL5iFQQCF7uKM"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "MonoBleedingEdge/etc/mono/4.5/web.config",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 18811,
+      "Hash" : "VsTEdQFmS8O81UvlBcw9n30HYfU"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "MonoBleedingEdge/etc/mono/mconfig/config.xml",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 25817,
+      "Hash" : "k2Ug1btcAKGYXXpMTw73Y6kDGGI"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 1605,
+      "Hash" : "GH3/UW+USOY+pQeBkLM0eSLEs+s"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 1605,
+      "Hash" : "GH3/UW+USOY+pQeBkLM0eSLEs+s"
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 12:09:04Z",
+      "Size" : 1605,
+      "Hash" : "GH3/UW+USOY+pQeBkLM0eSLEs+s"
+    }
+  ]
+}

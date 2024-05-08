@@ -1,0 +1,43 @@
+{
+  "From" : "0.1.3",
+  "To" : "0.1.4",
+  "Hash" : "qQ3MOCh2XtKtzvUa/YWgJbvFYEg",
+  "TotalSize" : 26656,
+  "Entries" : [
+    {
+      "Operation" : 2,
+      "RelativePath" : "Infinity Empires_Data/boot.config",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 08:35:13Z",
+      "Size" : 144
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Infinity Empires_Data/globalgamemanagers",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 08:35:12Z",
+      "Size" : 586548
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Infinity Empires_Data/level2",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 08:35:12Z",
+      "Size" : 954540
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Infinity Empires_Data/level3",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 08:35:12Z",
+      "Size" : 748344
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "version.data",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-07 08:35:33Z",
+      "Size" : 24
+    }
+  ]
+}

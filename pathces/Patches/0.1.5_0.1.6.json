@@ -1,0 +1,29 @@
+{
+  "From" : "0.1.5",
+  "To" : "0.1.6",
+  "Hash" : "3zYDGgG3LZ+3ZJ5Ei/kQiZIANgI",
+  "TotalSize" : 3515,
+  "Entries" : [
+    {
+      "Operation" : 2,
+      "RelativePath" : "Infinity Empires_Data/boot.config",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-08 07:46:27Z",
+      "Size" : 144
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "Infinity Empires_Data/level0",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-08 07:46:27Z",
+      "Size" : 20080
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "version.data",
+      "Attributes" : 32,
+      "LastWriting" : "2024-05-08 07:46:58Z",
+      "Size" : 24
+    }
+  ]
+}
